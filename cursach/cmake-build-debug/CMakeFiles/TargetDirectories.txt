@@ -1,0 +1,5 @@
+/home/nikita/CLionProjects/cursachDasha/cmake-build-debug/CMakeFiles/cursachDasha.dir
+/home/nikita/CLionProjects/cursachDasha/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nikita/CLionProjects/cursachDasha/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nikita/CLionProjects/cursachDasha/cmake-build-debug/CMakeFiles/cursachDasha_autogen_timestamp_deps.dir
+/home/nikita/CLionProjects/cursachDasha/cmake-build-debug/CMakeFiles/cursachDasha_autogen.dir

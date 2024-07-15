@@ -1,0 +1,5 @@
+C:/Users/Virginia/Desktop/cursachDasha/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cursachDasha.dir
+C:/Users/Virginia/Desktop/cursachDasha/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Virginia/Desktop/cursachDasha/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Virginia/Desktop/cursachDasha/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cursachDasha_autogen_timestamp_deps.dir
+C:/Users/Virginia/Desktop/cursachDasha/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cursachDasha_autogen.dir
